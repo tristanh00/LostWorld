@@ -1,0 +1,6 @@
+common:80
+uncommon:20
+rare:5
+epic:3
+legendary:2
+mythical:1
