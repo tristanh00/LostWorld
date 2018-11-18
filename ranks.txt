@@ -1,0 +1,6 @@
+novice:1-9
+initiate:10-24
+apprentice:25-49
+adept:50-74
+master:75-99
+grandmaster:100
