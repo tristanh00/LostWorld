@@ -1,0 +1,7 @@
+enemy:-10000
+distrust:-5000
+unfriendly:-1500
+neutral:0
+friendly:1500
+trusted:5000
+ally:10000
