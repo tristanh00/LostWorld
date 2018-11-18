@@ -1,0 +1,20 @@
+Alchemy
+Analyze
+Archery
+- Double Shot
+- Explosive Shot
+Brewing
+Carpentry
+Construction
+Crafting
+Diplomacy
+Enchanting
+Focus
+Healing
+Herb Lore
+Riding
+Smithing
+Stealth
+Swordsmanship
+Tracking
+Trade
