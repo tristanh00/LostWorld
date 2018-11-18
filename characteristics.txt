@@ -1,0 +1,10 @@
+agility
+
+charisma
+constitution
+dexterity
+endurance
+intelligence
+strength
+luck
+wisdom
