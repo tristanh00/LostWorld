@@ -6,3 +6,4 @@ endurance
 intelligence
 strength
 wisdom
+luck
