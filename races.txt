@@ -1,0 +1,5 @@
+Dwarfs
+Elves
+Goblins
+Gnomes
+Humans
