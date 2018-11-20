@@ -3,6 +3,7 @@ Analyze
 Archery
 - Double Shot
 - Explosive Shot
+Bandit
 Brewing
 Carpentry
 Construction
