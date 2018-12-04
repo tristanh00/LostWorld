@@ -17,6 +17,6 @@ Riding
 Smithing
 Stealth
 Swordsmanship
-- Dual Wields
+- Dual Wield
 Tracking
 Trade
