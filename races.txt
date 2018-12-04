@@ -3,3 +3,4 @@ Elves
 Goblins
 Gnomes
 Humans
+Trolls

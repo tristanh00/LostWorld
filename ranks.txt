@@ -4,3 +4,4 @@ apprentice:25-49
 adept:50-74
 master:75-99
 grandmaster:100
+supreme-master:500 

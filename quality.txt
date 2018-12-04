@@ -1,3 +1,4 @@
+destroyed
 poor
 average
 well-crafted
